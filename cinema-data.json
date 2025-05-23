@@ -74,5 +74,23 @@
     {"rows":[3,4,4,4,2,2], "align": "end"},
     {"rows":[3,4,4,4,2,2], "align": "left"}
     ]
+  },{
+    "name": "Atlas Biografer",
+    "website": "https://www.atlasbio.dk",
+    "rating": 4.4,
+    "image": "atlas.png",
+    "hours": {
+      "mandag": "11:00–21:30",
+      "tirsdag": "11:00–22:30",
+      "onsdag": "10:00–21:00",
+      "torsdag": "08:00–20:00",
+      "fredag": "11:00–21:30",
+      "lørdag": "11:00–21:45",
+      "søndag": "10:00-22:00"
+    },
+    "cinema-rows":[
+    {"rows":[2,5,5,5,5,5], "align": "end"},
+    {"rows":[3,5,5,5,5,5], "align": "left"}
+    ]
   }
 ]
