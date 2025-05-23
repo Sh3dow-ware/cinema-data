@@ -12,7 +12,11 @@
       "fredag": "03:00–23:30",
       "lørdag": "11:00–23:30",
       "søndag": "11:00–23:30"
-    }
+    },
+    "cinema-rows":[
+    {"rows":[3,4,4,4,4,3], "align": "end"},
+    {"rows":[3,4,4,4,4,3], "align": "left"}
+    ]
   },
   {
     "name": "Kino Ros Torv",
@@ -27,7 +31,11 @@
       "fredag": "13:00–21:15",
       "lørdag": "10:30–21:15",
       "søndag": "10:30–21:15"
-    }
+    },
+    "cinema-rows":[
+    {"rows":[4,5,4,5,3,3], "align": "end"},
+    {"rows":[4,5,4,5,3,3], "align": "left"}
+    ]
   },
   {
     "name": "Vue",
@@ -42,7 +50,11 @@
       "fredag": "09:30–00:00",
       "lørdag": "09:30–00:00",
       "søndag": "09:30–21:30"
-    }
+    },
+    "cinema-rows":[
+    {"rows":[2,2,5,5,5,6], "align": "end"},
+    {"rows":[2,2,5,5,5,6], "align": "left"}
+    ]
   },
   {
     "name": "Nordisk Film Biografer",
@@ -57,6 +69,10 @@
       "fredag": "11:00–21:30",
       "lørdag": "11:00–21:45",
       "søndag": "Lukket"
-    }
+    },
+    "cinema-rows":[
+    {"rows":[3,4,4,4,2,2], "align": "end"},
+    {"rows":[3,4,4,4,2,2], "align": "left"}
+    ]
   }
 ]
