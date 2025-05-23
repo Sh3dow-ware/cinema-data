@@ -78,7 +78,7 @@
     "name": "Atlas Biografer",
     "website": "https://www.atlasbio.dk",
     "rating": 4.4,
-    "image": "atlas.png",
+    "image": "https://raw.githubusercontent.com/Sh3dow-ware/cinema-data/refs/heads/main/assets/atlas.jpg",
     "hours": {
       "mandag": "11:00–21:30",
       "tirsdag": "11:00–22:30",
