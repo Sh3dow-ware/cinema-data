@@ -3,7 +3,7 @@
     "name": "Megascope",
     "website": "https://megascope.dk",
     "rating": 4.3,
-    "image": "~assets/svg/megascope.png",
+    "image": "https://raw.githubusercontent.com/Sh3dow-ware/cinema-data/refs/heads/main/assets/megascope.png",
     "hours": {
       "mandag": "03:00–23:30",
       "tirsdag": "03:00–23:30",
@@ -22,7 +22,7 @@
     "name": "Kino Ros Torv",
     "website": "https://www.kinorostorv.dk/",
     "rating": 4.2,
-    "image": "~assets/svg/kino.png",
+    "image": "https://raw.githubusercontent.com/Sh3dow-ware/cinema-data/refs/heads/main/assets/kino.png",
     "hours": {
       "mandag": "13:00–21:15",
       "tirsdag": "13:00–21:15",
@@ -41,7 +41,7 @@
     "name": "Vue",
     "website": "https://www.biografenvue.dk",
     "rating": 4.2,
-    "image": "~assets/svg/vue.png",
+    "image": "https://raw.githubusercontent.com/Sh3dow-ware/cinema-data/refs/heads/main/assets/vue.png",
     "hours": {
       "mandag": "09:30–21:30",
       "tirsdag": "09:30–21:30",
@@ -60,7 +60,7 @@
     "name": "Nordisk Film Biografer",
     "website": "https://www.nfbio.dk",
     "rating": 4.4,
-    "image": "~assets/svg/nordiskbiograf.png",
+    "image": "https://raw.githubusercontent.com/Sh3dow-ware/cinema-data/refs/heads/main/assets/nordiskbiograf.png",
     "hours": {
       "mandag": "11:00–21:30",
       "tirsdag": "11:00–21:30",
